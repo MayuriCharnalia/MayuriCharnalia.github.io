@@ -1,7 +1,7 @@
-name: "MayuriCharnalia"                                # CHANGE HERE 
+name: "MAYURICHARNALIA"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "MayuriCharnalia"                             # CHANGE HERE 
+  title: "MAYURICHARNALIA"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -22,7 +22,7 @@ navbar:
       href: mailto:mayuri.charnalia@rm.dk                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/MayuriCharnalia       # CHANGE HERE 
+      href: https://github.com/MAYURICHARNALIA       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
